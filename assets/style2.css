@@ -807,12 +807,12 @@ body {
 .mytabs {
     display: flex;
     flex-wrap: wrap;
-    max-width: 600px;
-    margin: 50px auto;
+    max-width: 1200px;
+    margin: -35px auto;
     padding: 25px;
-    height: -200%;
-    width: 20;
-    left: -600px;
+    height: 200px;
+    width: 200%;
+    left: -280px;
     position: relative;
 }
 .mytabs input[type="radio"] {
@@ -825,10 +825,10 @@ body {
 }
 
 .mytabs .tab {
-    width: 100%;
-    padding: 23px;
+    width: 2000%;
+    padding: 20px;
     background: rgb(124, 123, 123);
-    order: 1;
+    order: 8;
     display: none;
     left: 0%;
     position: relative;
